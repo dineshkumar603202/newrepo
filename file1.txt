@@ -1,3 +1,1 @@
-this line from developer1
-2nd line
-3nd line
+new line by dev 2
